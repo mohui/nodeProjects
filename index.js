@@ -1,1 +1,2 @@
-得到的hhhhh
+let {app} = require('./src/app');
+

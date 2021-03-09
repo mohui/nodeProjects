@@ -19,9 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1bc48ac-0a00-49c2-85f1-2e63aa1cd018" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" />
+    <list default="true" id="a1bc48ac-0a00-49c2-85f1-2e63aa1cd018" name="Default Changelist" comment="上传过滤文件">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nodeProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -48,6 +58,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,8 +70,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615174539679</updated>
-      <workItem from="1615174540729" duration="1311000" />
+      <workItem from="1615174540729" duration="2211000" />
+      <workItem from="1615187840485" duration="9323000" />
     </task>
+    <task id="LOCAL-00001" summary="上传过滤文件">
+      <created>1615270952170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615270952170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,23 +96,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上传过滤文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传过滤文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1722" y="-193" key="CommitChangelistDialog2" timestamp="1615174602590">
+    <state x="-1949" y="-228" width="1213" height="796" key="CommitChangelistDialog2" timestamp="1615278146278">
       <screen x="-2560" y="-573" width="2560" height="1417" />
     </state>
-    <state x="-1722" y="-193" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615174602590" />
-    <state x="-1680" y="-125" key="Vcs.Push.Dialog.v2" timestamp="1615176135427">
+    <state x="-1949" y="-228" width="1213" height="796" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615278146278" />
+    <state x="-1952" y="-286" key="DiffContextDialog" timestamp="1615277632977">
       <screen x="-2560" y="-573" width="2560" height="1417" />
     </state>
-    <state x="-1680" y="-125" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615176135427" />
-    <state x="-1488" y="56" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615176289400">
+    <state x="-1952" y="-286" key="DiffContextDialog/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615277632977" />
+    <state x="-1543" y="-155" key="RollbackChangesDialog" timestamp="1615270870626">
       <screen x="-2560" y="-573" width="2560" height="1417" />
     </state>
-    <state x="-1488" y="56" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615176289400" />
-    <state x="-1481" y="31" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615176247157">
+    <state x="-1543" y="-155" key="RollbackChangesDialog/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615270870626" />
+    <state x="-1680" y="-125" key="Vcs.Push.Dialog.v2" timestamp="1615270956302">
       <screen x="-2560" y="-573" width="2560" height="1417" />
     </state>
-    <state x="-1481" y="31" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615176247157" />
+    <state x="-1680" y="-125" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615270956302" />
+    <state x="-1488" y="56" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615272556125">
+      <screen x="-2560" y="-573" width="2560" height="1417" />
+    </state>
+    <state x="-1488" y="56" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615272556125" />
+    <state x="-1481" y="31" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615176409595">
+      <screen x="-2560" y="-573" width="2560" height="1417" />
+    </state>
+    <state x="-1481" y="31" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615176409595" />
   </component>
 </project>
