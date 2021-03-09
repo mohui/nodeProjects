@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1bc48ac-0a00-49c2-85f1-2e63aa1cd018" name="Default Changelist" comment="上传过滤文件">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nodeProjects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615174539679</updated>
       <workItem from="1615174540729" duration="2211000" />
-      <workItem from="1615187840485" duration="9323000" />
+      <workItem from="1615187840485" duration="9652000" />
     </task>
     <task id="LOCAL-00001" summary="上传过滤文件">
       <created>1615270952170</created>
@@ -103,10 +95,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="上传过滤文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1949" y="-228" width="1213" height="796" key="CommitChangelistDialog2" timestamp="1615278146278">
+    <state x="-1949" y="-228" width="1213" height="796" key="CommitChangelistDialog2" timestamp="1615278491597">
       <screen x="-2560" y="-573" width="2560" height="1417" />
     </state>
-    <state x="-1949" y="-228" width="1213" height="796" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615278146278" />
+    <state x="-1949" y="-228" width="1213" height="796" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-573.2560.1417@-2560.-573.2560.1417" timestamp="1615278491597" />
     <state x="-1952" y="-286" key="DiffContextDialog" timestamp="1615277632977">
       <screen x="-2560" y="-573" width="2560" height="1417" />
     </state>

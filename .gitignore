@@ -1,5 +1,7 @@
 # idea
-.idea/*/**
+.idea
+
+.test
 
 .DS_Store
 
