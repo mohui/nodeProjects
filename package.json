@@ -1,11 +1,12 @@
 {
   "name": "nodeProjects",
   "version": "1.0.0",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "http-server": "^0.12.3"
-  },
-  "devDependencies": {
-    "http-proxy-middleware": "^1.0.6"
   }
 }
